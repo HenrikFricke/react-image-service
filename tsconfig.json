@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "forceConsistentCasingInFileNames": true,
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "noImplicitAny": true,
+    "noImplicitReturns": true,
+    "noImplicitThis": true,
+    "noUnusedLocals": true,
+    "outDir": "dist",
+    "sourceMap": true,
+    "strictNullChecks": true,
+    "suppressImplicitAnyIndexErrors": true,
+    "target": "esnext",
+    "esModuleInterop": true,
+    "jsx": "react",
+    "typeRoots": ["./node_modules/@types", "./typings"]
+  },
+  "include": ["src/**/*"],
+  "exclude": ["node_modules/**/*"]
+}
