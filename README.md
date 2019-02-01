@@ -1,4 +1,4 @@
-# React Image Tool
+# React Image Service
 
 > Simple back-end service to generate images
 
@@ -14,6 +14,6 @@ $ > yarn storybook # Runs storybook to preview layouts
 
 ## Examples
 
-http://localhost:8080/?layout=1&name=Otto%27s%20Burger
-http://localhost:8080/?layout=2&name=Otto%27s%20Burger
-http://localhost:8080/?layout=2&name=Otto%27s%20Burger&size=1000
+- http://localhost:8080/?layout=1&name=Otto%27s%20Burger
+- http://localhost:8080/?layout=2&name=Otto%27s%20Burger
+- http://localhost:8080/?layout=2&name=Otto%27s%20Burger&size=1000
